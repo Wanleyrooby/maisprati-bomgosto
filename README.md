@@ -91,7 +91,7 @@ Ordenado por **data da comanda**.
 ## 🛠️ Como Executar
 
 1. Abra o **MySQL Workbench** ou outro cliente SQL de sua preferência.
-2. Execute o arquivo `CriaçãoTabelas.sql` para criar as tabelas.
+2. Execute o arquivo `CriaçãoTabelas.sql` para criar o banco de dados db_bomgosto e criar as tabelas.
 3. Execute o arquivo `InserçãoDados.sql` para inserir os dados de exemplo.
 4. Rode as consultas desejadas (`CardapioPorNome.sql`, `ComandasItens.sql`, etc.).
 5. Analise os resultados e gere relatórios de faturamento.
